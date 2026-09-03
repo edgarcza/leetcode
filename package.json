@@ -74,7 +74,8 @@
     "editdistance": "tsx src/edit-distance.ts",
     "setmatrixzeroes": "tsx src/set-matrix-zeroes.ts",
     "search2dmatrix": "tsx src/search-2d-matrix.ts",
-    "sortcolors": "tsx src/sort-colors.ts"
+    "sortcolors": "tsx src/sort-colors.ts",
+    "minimumwindowsubstring": "tsx src/minimum-window-substring.ts"
   },
   "keywords": [],
   "author": "",

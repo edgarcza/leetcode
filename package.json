@@ -75,7 +75,11 @@
     "setmatrixzeroes": "tsx src/set-matrix-zeroes.ts",
     "search2dmatrix": "tsx src/search-2d-matrix.ts",
     "sortcolors": "tsx src/sort-colors.ts",
-    "minimumwindowsubstring": "tsx src/minimum-window-substring.ts"
+    "minimumwindowsubstring": "tsx src/minimum-window-substring.ts",
+    "combinations": "tsx src/combinations.ts",
+    "subsets": "tsx src/subsets.ts",
+    "wordsearch": "tsx src/word-search.ts",
+    "removeduplicatessorted2": "tsx src/remove-duplicates-sorted-2.ts"
   },
   "keywords": [],
   "author": "",

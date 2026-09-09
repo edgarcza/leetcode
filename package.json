@@ -79,7 +79,10 @@
     "combinations": "tsx src/combinations.ts",
     "subsets": "tsx src/subsets.ts",
     "wordsearch": "tsx src/word-search.ts",
-    "removeduplicatessorted2": "tsx src/remove-duplicates-sorted-2.ts"
+    "removeduplicatessorted2": "tsx src/remove-duplicates-sorted-2.ts",
+    "searchrotatedarray2": "tsx src/search-rotated-array-2.ts",
+    "removeduplicateslinkedsorted": "tsx src/remove-duplicates-linked-sorted.ts",
+    "removeduplicateslinkedsorted2": "tsx src/remove-duplicates-linked-sorted-2.ts"
   },
   "keywords": [],
   "author": "",

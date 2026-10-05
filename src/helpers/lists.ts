@@ -24,7 +24,7 @@ export function toLinkedList(num: number[]) {
   return first;
 }
 
-export function printList(head: ListNode | null): void {
+export function printList(head: ListNode | null, r = false) {
   const values: number[] = [];
   let current = head;
 
@@ -33,5 +33,7 @@ export function printList(head: ListNode | null): void {
     current = current.next;
   }
 
-  console.log(values);
+  if (r) return `[${values.join(", ")}]`;
+
+  console.log(`[${values.join(", ")}]`);
 }

@@ -82,7 +82,13 @@
     "removeduplicatessorted2": "tsx src/remove-duplicates-sorted-2.ts",
     "searchrotatedarray2": "tsx src/search-rotated-array-2.ts",
     "removeduplicateslinkedsorted": "tsx src/remove-duplicates-linked-sorted.ts",
-    "removeduplicateslinkedsorted2": "tsx src/remove-duplicates-linked-sorted-2.ts"
+    "removeduplicateslinkedsorted2": "tsx src/remove-duplicates-linked-sorted-2.ts",
+    "largestrectanglehistogram": "tsx src/largest-rectangle-histogram.ts",
+    "maximalrectangle": "tsx src/maximal-rectangle.ts",
+    "partitionlist": "tsx src/partition-list.ts",
+    "scramblestring": "tsx src/scramble-string.ts",
+    "mergesortedarray": "tsx src/merge-sorted-array.ts",
+    "graycode": "tsx src/gray-code.ts"
   },
   "keywords": [],
   "author": "",
